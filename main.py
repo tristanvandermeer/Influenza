@@ -1,4 +1,5 @@
 import base64
+import hashlib
 
 # Smuggler
 def htmlify(file_path):
@@ -30,9 +31,11 @@ things
 - Other C2 Comms
 - Environment Keying and Encryption
 - Shannon Entropy Averaging
+- Payload Emulation - on host sandbox fro EDR, cant go on forever, peg the CPU
 
 overview
 - Shellcode loader
 - Secondary C2
+- Start reading malware books !
 
 """
