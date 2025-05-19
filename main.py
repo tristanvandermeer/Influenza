@@ -1,5 +1,4 @@
 import base64
-import hashlib
 
 # Smuggler
 def htmlify(file_path):
@@ -25,6 +24,7 @@ def htmlify(file_path):
 
 """ 
 TO DO :
+LET'S NAME IT POISON JAR !!!! THAT'S SICK !!!!
 
 things
 - HTML smuggling
