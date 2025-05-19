@@ -32,6 +32,7 @@ things
 - Environment Keying and Encryption
 - Shannon Entropy Averaging
 - Payload Emulation - on host sandbox fro EDR, cant go on forever, peg the CPU
+- What the hell is an EDR silencer!!! (Look it up)
 
 overview
 - Shellcode loader
